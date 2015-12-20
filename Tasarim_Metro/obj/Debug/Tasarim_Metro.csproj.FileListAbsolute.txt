@@ -1,0 +1,42 @@
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.exe.config
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.exe
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.pdb
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\bin\Debug\MetroFramework.dll
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.csprojResolveAssemblyReference.cache
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Form1.resources
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Properties.Resources.resources
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.csproj.GenerateResource.Cache
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.exe
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.pdb
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Backup.resources
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.MailveBackup.resources
+C:\Users\Halil\Desktop\Evde Yapılan Örnekler\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Hakkında.resources
+F:\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.exe.config
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.exe
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.pdb
+F:\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.exe
+F:\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.pdb
+F:\Tasarim_Metro\Tasarim_Metro\bin\Debug\MetroFramework.dll
+F:\Tasarim_Metro\Tasarim_Metro\bin\Debug\MetroFramework.Fonts.dll
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.csprojResolveAssemblyReference.cache
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Backup.resources
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Form1.resources
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Hakkında.resources
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.MailveBackup.resources
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Properties.Resources.resources
+F:\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.csproj.GenerateResource.Cache
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.exe.config
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.exe
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.pdb
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.exe
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\bin\Debug\Tasarim_Metro.pdb
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\bin\Debug\MetroFramework.dll
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.csprojResolveAssemblyReference.cache
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Backup.resources
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Form1.resources
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Hakkında.resources
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.MailveBackup.resources
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.Properties.Resources.resources
+C:\Users\halil.yapiskan\Desktop\Tasarim_Metro\Tasarim_Metro\obj\Debug\Tasarim_Metro.csproj.GenerateResource.Cache
